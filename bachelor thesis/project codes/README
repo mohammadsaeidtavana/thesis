@@ -1,1 +1,12 @@
+requirement to run project 
+for run this project in your computer to see the results you have to install following : 
+1 - JDK and jre 
+2- oracle RDBMS 
+3- IDE (integrated development enviorment ) intellij ,netbeans , eclips 
 
+this project has  clinet / server architecture , project contains two folder client and server . 
+first run server project and then run client project in seperate windows . after runing both projects 
+you can use manuals which located in server application by entering ? in command box of server application . 
+server applicaton has user interface and you can manage the server procese with interface . this interface is basic and 
+written is java swing technology . client side application in command line interface . 
+if you have any question about the code please mail me : saeid.biomedical.cyber@gmail.com 
